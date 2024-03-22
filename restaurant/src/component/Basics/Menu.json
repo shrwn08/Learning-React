@@ -1,0 +1,100 @@
+  [
+    {
+      "id": 1,
+      "category": "Breakfast",
+      "foodName": "Pancakes",
+      "foodDescription": "Fluffy pancakes served with maple syrup and butter.",
+      "imageLink": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$7.99"
+    },
+    {
+      "id": 2,
+      "category": "Breakfast",
+      "foodName": "Eggs Benedict",
+      "foodDescription": "Poached eggs with hollandaise sauce on toasted English muffins with ham.",
+      "imageLink": "https://media.istockphoto.com/id/1227417154/photo/eggs-benedict-with-arugula-bacon-and-hollandaise-sauce-on-gray-wooden-background.jpg?s=2048x2048&w=is&k=20&c=8UG04bhSZiRZctxS_LvSA9_6-3zPtKbqnM-A_kARbz4=",
+      "price": "$9.50"
+    },
+    {
+      "id": 3,
+      "category": "Lunch",
+      "foodName": "Caesar Salad",
+      "foodDescription": "Fresh romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "imageLink": "https://media.istockphoto.com/id/1211166166/photo/caesar-salad-with-grilled-chicken-and-croutons-of-bread.jpg?s=2048x2048&w=is&k=20&c=WuPaJ1QkPvw4K25ktfpMde74LWge4Ayc3_Cpigz4U94=",
+      "price": "$11.99"
+    },
+    {
+      "id": 4,
+      "category": "Lunch",
+      "foodName": "Chicken Sandwich",
+      "foodDescription": "Grilled chicken, lettuce, tomato, and mayo on a toasted bun.",
+      "imageLink": "https://media.istockphoto.com/id/1221237754/photo/two-halves-of-club-sandwich-on-white.jpg?s=2048x2048&w=is&k=20&c=DcjZH59cnBYGSnlbPXXoBC-gv31qj7V91cZcGUNWFq0=",
+      "price": "$12.50"
+    },
+    {
+      "id": 5,
+      "category": "Snacks",
+      "foodName": "French Fries",
+      "foodDescription": "Crispy golden fries served with ketchup.",
+      "imageLink": "https://media.istockphoto.com/id/157510962/photo/french-fries-on-plate.jpg?s=2048x2048&w=is&k=20&c=oKkgnGoszNy1NOoU2tpdcvPndgtA-sttEqdFyVq6D_I=",
+      "price": "$4.50"
+    },
+    {
+      "id": 6,
+      "category": "Snacks",
+      "foodName": "Onion Rings",
+      "foodDescription": "Golden crispy onion rings served with dipping sauce.",
+      "imageLink": "https://media.istockphoto.com/id/451682899/photo/homemade-crunchy-fried-onion-rings.jpg?s=2048x2048&w=is&k=20&c=6l18YcjYC3cC5_Ql1OqlQp2VlbH1vAARfv7O0zjvAnY=",
+      "price": "$5.50"
+    },
+    {
+      "id": 7,
+      "category": "Dinner",
+      "foodName": "Grilled Salmon",
+      "foodDescription": "Fresh salmon fillet grilled to perfection with a lemon herb sauce.",
+      "imageLink": "https://plus.unsplash.com/premium_photo-1695658519542-2cf6485d7610?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$18.99"
+    },
+    {
+      "id": 8,
+      "category": "Dinner",
+      "foodName": "Paneer",
+      "foodDescription": "Juicy paneer cooked to your preference with a side of vegetables.",
+      "imageLink": "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=2048x2048&w=is&k=20&c=qfTRD_EsBmpxa19J1_2-Tf4xeSRGxUOjKQ06AUWMdgI=",
+      "price": "$22.50"
+    },
+    {
+      "id": 9,
+      "category": "Breakfast",
+      "foodName": "Omelette",
+      "foodDescription": "Fluffy omelette filled with cheese, mushrooms, and spinach.",
+      "imageLink": "https://images.unsplash.com/photo-1494597706938-de2cd7341979?q=80&w=1808&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$8.50"
+    },
+    {
+      "id": 10,
+      "category": "Lunch",
+      "foodName": "Margherita Pizza",
+      "foodDescription": "Classic Italian pizza topped with tomatoes, mozzarella, and fresh basil.",
+      "imageLink": "https://images.unsplash.com/photo-1598023696416-0193a0bcd302?q=80&w=1872&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$14.99"
+    },
+    {
+      "id": 11,
+      "category": "Snacks",
+      "foodName": "Nachos",
+      "foodDescription": "Crispy tortilla chips topped with melted cheese, salsa, and sour cream.",
+      "imageLink": "https://images.unsplash.com/photo-1582169296194-e4d644c48063?q=80&w=1900&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$7.50"
+    },
+    {
+      "id": 12,
+      "category": "Dinner",
+      "foodName": "Chicken Alfredo Pasta",
+      "foodDescription": "Creamy Alfredo sauce tossed with fettuccine pasta and grilled chicken.",
+      "imageLink": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$16.50"
+    }
+  ]
+  
+  
