@@ -1,0 +1,7 @@
+.app-bar
+    {
+        display: flex;
+        background-color: rgba(23, 105, 202, 255);
+        color: white;
+        justify-content: center;
+      }

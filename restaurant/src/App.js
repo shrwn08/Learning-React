@@ -1,10 +1,10 @@
 
-import Restaurant from "./component/Basics/Restaurent";
-
+// import Restaurant from "./component/Basics/Restaurent";
+import UseState from "./component/Hooks/Use_state"
 function App() {
   return (
-  
-      <Restaurant />
+      <UseState />
+      //<Restaurant />
    
   );
 }
